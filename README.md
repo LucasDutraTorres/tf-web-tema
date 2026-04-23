@@ -1,6 +1,6 @@
 # tf-web-tema
 
-# Nome_da_Equipe
+# DSTI's
 
 ### Integrantes
 [comment]: <> (Clésio Arthur Mandes Saraiva: https://github.com/cams2-tech
